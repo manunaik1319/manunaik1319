@@ -19,13 +19,6 @@
 ### 📉 Detailed Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manunaik1319&theme=radical)
 
-### ⏱️ Productive Time
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manunaik1319&theme=radical&utcOffset=8)
-
-### 📊 Stats Overview
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manunaik1319&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manunaik1319&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manunaik1319&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manunaik1319&icon=0&color=0)](https://visitcount.itsvg.in)
